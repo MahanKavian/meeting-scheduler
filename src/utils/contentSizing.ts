@@ -1,0 +1,1 @@
+export const container = "container mx-auto py-1 px-3 lg:px-0"
