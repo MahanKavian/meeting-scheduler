@@ -22,7 +22,6 @@ export default function TimePicker({ setValue, time, field }: IProps) {
     return (
         <Popover>
             <PopoverTrigger asChild>
-                {/* <Button variant="outline" className="w-[150px]">{selectedTime}</Button> */}
                 <Button
                     variant={"outline"}
                     className={cn(
