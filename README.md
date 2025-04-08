@@ -43,7 +43,7 @@ yarn install  # or npm install
 yarn dev  # or npm run dev
 ```
 
-The application will be available at **http://localhost:3000**.
+The application will be available at **https://meeting-scheduler-7fyg.vercel.app**.
 
 ## 📌 Contribution
 
@@ -56,4 +56,4 @@ Suggestions and improvements are always welcome! If you want to contribute:
 
 ## 📜 License
 
-This project is released under the **MIT** license. Feel free to use and modify it with proper attribution! 🎉
+This project is released under the **DvpKvn** license. Feel free to use and modify it with proper attribution! 🎉
